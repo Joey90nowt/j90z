@@ -1,0 +1,6 @@
+{
+  "name": "JOE90z Portfolio",
+  "description": "Beats from the 90s to NOW. Explore the unique beats, mixes, and underground hip-hop catalog of London beat maker JOE90z.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Public Sans", ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --font-heading: "Gabarito", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+
+  --color-brand-purple: #701a75;
+  --color-brand-darkpurple: #4a044e;
+  --color-brand-light: #eef2ff;
+  --color-brand-accent: #c026d3;
+}
+
+@layer utilities {
+  .font-heading {
+    font-family: var(--font-heading);
+  }
+}
